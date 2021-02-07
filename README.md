@@ -1,1 +1,1 @@
-# my-marvel-favorites-client-side
+# my-marvel-favorites-server-side
